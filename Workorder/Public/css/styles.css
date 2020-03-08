@@ -1,0 +1,6 @@
+@import url(./foundation.min.css);
+
+body{
+    height: cover;
+    background-color: #1468a0;
+}
